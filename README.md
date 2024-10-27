@@ -75,6 +75,7 @@ print("Create operation successful:", create_result)
 The CRUD operations are implemented in the `AnimalShelter` class, and the dashboard provides functionalities including:
 - Login authentication.
 - Filtering animal records by type, breed, outcome type, and rescue type.
+- Add and remove buttons for CRUD operations.
 - Viewing an interactive data table with search filters, sorting, and pagination.
 - An interactive map showing animal locations based on selected records.
 - A pie chart displaying breed distributions.
